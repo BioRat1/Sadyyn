@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, java and SQL
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on whatever you have in mind to increase my skills
-- 📫 How to reach me here on Github, my instagram is "B1oRat", my email is adelp2423@gmail.com
+- 📫 How to reach me here on Github, my instagram is "B1oRat", my email is masonharp@sudomail.com
 
 
 <!---
